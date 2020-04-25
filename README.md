@@ -37,11 +37,11 @@ Looking to understand how the COVID-19 pandemic is impacting the state of Minnes
    * API-Keys are saved to desktop file for security. Code references keys at remote folder.
    * Daily run the following to update primary datasets. Team6_Project1Py.ipynb
    * In any order run the following code modules:
-   *   Team6_Project1_Charts_MN-MI-CO-NatAvg.ipynb (Rob)
-   *   Team6Proj1_PopulationData.ipynb (Ian)
-   *   Team6Proj1_StateHistoryLineCharts.ipynb (Ian)
-   *   Team6Project1_GMaps.ipynb (Ian)
-   *   Team6Proj1_GrowthFactor.ipynb (Ian)
+     *   Team6_Project1_Charts_MN-MI-CO-NatAvg.ipynb (Rob)
+     *   Team6Proj1_PopulationData.ipynb (Ian)
+     *   Team6Proj1_StateHistoryLineCharts.ipynb (Ian)
+     *   Team6Project1_GMaps.ipynb (Ian)
+     *   Team6Proj1_GrowthFactor.ipynb (Ian)
 
 # Project Requirements
 Development Technical Requirements:
@@ -65,7 +65,7 @@ Presentation Requirements:
 * The implications of your findings? What do your findings mean?
 
 # Data Visualization Project Tracker
-Visualization Project Tracker Link: 
+* Visualization Project Tracker Link:
 https://docs.google.com/spreadsheets/d/1gb29HR5fH3w32Zrm048jqC98u5iTM9oXEJnK2tX-aSE/edit#gid=2041823604
 
 ![MNCovid19a](Images/covid-19.png)
