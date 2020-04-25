@@ -13,10 +13,10 @@ Looking to understand how the COVID-19 pandemic is impacting the state of Minnes
    * Minnesota population center density versus another states similar population center. To be defined as a comparitive city/county versus similar population state city/county. We have chosen Hennepin and Ramsey counties which contain the cities of Minneapolis and St.Paul.
 
 # Team Presentation
-  * Team6_Project_Pesentation_MNCovid19.pptx 
-    https://github.com/robgauer/Team6_Project_1/tree/master/Presentation
+  * Team6_Project_Pesentation_MNCovid19.pptx
+     * https://github.com/robgauer/Team6_Project_1/tree/master/Presentation
   * Team6_Project_Pesentation_MNCovid19.pdf
-    https://github.com/robgauer/Team6_Project_1/blob/master/Presentation/Team6_Project_Presentation_MNCovid19.pdf
+     * https://github.com/robgauer/Team6_Project_1/blob/master/Presentation/Team6_Project_Presentation_MNCovid19.pdf
 
 # Data Sources
    * The COVID Tracking Project. Import national and state historical data related 
@@ -27,11 +27,11 @@ Looking to understand how the COVID-19 pandemic is impacting the state of Minnes
    * Johns Hopkins University of Medicine. Import current data for counties comparitive
         analysis of COVID Tracking Project data. Focus on a sample population comparison 
         for a area of similar counties population density. Exmaple: MN Hennepin & Ramsey.
-        https://coronavirus.jhu.edu/
+        https://coronavirus.jhu.edu
         
    *  United States Census Bureau. Import state and county population data for sizing 
         comparision of national, state, and county COVID-19 analysis using 2018 estimates.
-        https://www.census.gov/
+        https://www.census.gov
 
 # Code Work Flow / Function Overview
    * API-Keys are saved to desktop file for security. Code references keys at remote folder.
@@ -53,7 +53,7 @@ Development Technical Requirements:
 * (Optional) Use at least one API, if you can ﬁnd an API with data pertinent to your primary research questions. 
 * Create a write-up summarizing your major ﬁndings. This should include a heading for each “question” you asked of your data and a short description of your ﬁndings and any relevant plots.
 * SUMMARY WRITE UP:  Team6ProjectPY-Summary.ipynb
-  Link: https://github.com/robgauer/Team6_Project_1/blob/master/Team6ProjectPY-Summary.ipynb 
+   * Link: https://github.com/robgauer/Team6_Project_1/blob/master/Team6ProjectPY-Summary.ipynb 
 
 Presentation Requirements:
 * Prepare a formal ten-minute presentation that presents:
@@ -66,7 +66,7 @@ Presentation Requirements:
 
 # Data Visualization Project Tracker
 * Visualization Project Tracker Link:
-https://docs.google.com/spreadsheets/d/1gb29HR5fH3w32Zrm048jqC98u5iTM9oXEJnK2tX-aSE/edit#gid=2041823604
+   * https://docs.google.com/spreadsheets/d/1gb29HR5fH3w32Zrm048jqC98u5iTM9oXEJnK2tX-aSE/edit#gid=2041823604
 
 ![MNCovid19a](Images/covid-19.png)
 Copyright
