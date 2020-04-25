@@ -12,6 +12,12 @@ Looking to understand how the COVID-19 pandemic is impacting the state of Minnes
    * Minnesota versus a similar size state population.
    * Minnesota population center density versus another states similar population center. To be defined as a comparitive city/county versus similar population state city/county. We have chosen Hennepin and Ramsey counties which contain the cities of Minneapolis and St.Paul.
 
+# Team Presentation
+  * https://github.com/robgauer/Team6_Project_1/tree/master/Presentation
+  * Team6_Project_Pesentation_MNCovid19.pptx
+  * Team6_Project_Pesentation_MNCovid19.pdf
+        https://github.com/robgauer/Team6_Project_1/blob/master/Presentation/Team6_Project_Presentation_MNCovid19.pdf
+
 # Data Sources
    * The COVID Tracking Project. Import national and state historical data related 
         to the United States population summary information for national and state(s) 
@@ -27,6 +33,16 @@ Looking to understand how the COVID-19 pandemic is impacting the state of Minnes
         comparision of national, state, and county COVID-19 analysis using 2018 estimates.
         https://www.census.gov/
 
+# Code Work Flow / Function Overview
+   A. API-Keys are saved to desktop file for security. Code references keys at remote folder.
+   B. Daily run the following to update primary datasets. Team6_Project1Py.ipynb
+   C. In any order run the following code modules:
+        1. Team6_Project1_Charts_MN-MI-CO-NatAvg.ipynb (Rob)
+        2. Team6Proj1_PopulationData.ipynb (Ian)
+        3. Team6Proj1_StateHistoryLineCharts.ipynb (Ian)
+        4. Team6Project1_GMaps.ipynb (Ian)
+        5. Team6Proj1_GrowthFactor.ipynb (Ian)
+        
 # Project Requirements
 Development Technical Requirements:
 * Use Pandas to clean and format your dataset(s). 
@@ -36,6 +52,8 @@ Development Technical Requirements:
 * Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation. 
 * (Optional) Use at least one API, if you can ﬁnd an API with data pertinent to your primary research questions. 
 * Create a write-up summarizing your major ﬁndings. This should include a heading for each “question” you asked of your data and a short description of your ﬁndings and any relevant plots.
+      ** SUMMARY WRITE UP:  Team6ProjectPY-Summary.ipynb
+          Link: https://github.com/robgauer/Team6_Project_1/blob/master/Team6ProjectPY-Summary.ipynb 
 
 Presentation Requirements:
 * Prepare a formal ten-minute presentation that presents:
@@ -47,22 +65,6 @@ Presentation Requirements:
 * The implications of your findings? What do your findings mean?
 
 # Data Visualization Project Tracker
-* Define Title and Objectives. What is your story? (Team)
-  * Determine similar State and City/County/Metro Area to compare against (Ian Mac).
-  * Just similar pop county, look at County area for density. If none, extrapolation down to county from State totals based on confirmed cases and deaths?
-  * Research source for county testing and hospitalization data.
-  * Do we want history for County data? Would need to compile from Johns Hopkins files
-* Determine data sources. (Team)
-* Jupyter Notebook data API exploration, build, and clean up. (Phil and Ian)
-  * Bring in DataFrames from Covid Tracking, JHU, Census, summarys, for MN, National (Phil)
-  * Clone JHU repo into ours? (Phil)
-* Matplotlib data visualizations (6 to 8 visualizations). (Team)
-  * Determine chart types and visualization methods. 
-  * Play with charting. (Rob)
-  * Create and save charts as PNGs to Output_data folder. (Team)
-* Project Readme. (Rob)
-* Data Visualization Project Tracker Update. (Rob)
-* PowerPoint Presentation and Write Up of conclusions? (Team)
 * Link to Data Visualization Project Tracker: https://docs.google.com/spreadsheets/d/1gb29HR5fH3w32Zrm048jqC98u5iTM9oXEJnK2tX-aSE/edit#gid=2041823604
 
 ![MNCovid19a](Images/covid-19.png)
